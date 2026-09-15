@@ -96,8 +96,8 @@ The assignment demonstrates the creation and management of Snowflake objects, lo
 ```text
 Snowflake-Tutorial-Assignment/
 │
-├── snowflake_assignment.sql
-└── README.md
+├── README.md
+└── snowflake_assignment.sql
 ```
 
 ---
